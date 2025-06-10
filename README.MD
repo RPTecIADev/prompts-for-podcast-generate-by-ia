@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-    preview do podcast
+    Podcast de Tecnologia
 </p>
 
 <div align="center">
@@ -29,7 +29,7 @@
 # Projeto Podcast Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório é um Desafio de Projeto da formação do bootcamp: Microsoft da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório é um Desafio de Projeto da formação do bootcamp: "Microsoft 50 Anos - Prompts Inteligentes" da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um podcast utilizando ferramentas de IA através de prompts mais trabalhado.
 
@@ -37,14 +37,14 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 💻 Tecnologias utilizadas no projeto
 
-- [ChatGPT](https://chat.openai.com/) 
+- [Gemini](https://gemini.google.com/app?hl=pt-BR) 
 - [MidJourney](https://www.midjourney.com/app/)
 - [ElevenLabs](https://beta.elevenlabs.io/)
 - [Capcut](https://www.capcut.com/pt-br/)
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
+- Roteiro gerado via Gemini
 - Audio gerado pela elevenLabs
 - Midjourney Para gerar capas
 - Capcut para tratar aúdio e adicionar sons de fundo
