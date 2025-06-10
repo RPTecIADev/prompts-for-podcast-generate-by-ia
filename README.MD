@@ -71,7 +71,7 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
       align=left 
       margin=10 
       width=80 
-      src="hhttps://avatars.githubusercontent.com/u/114440054?v=4&size=64"
+      src="https://avatars.githubusercontent.com/u/114440054?v=4&size=64"
     />
     <p>&nbsp&nbsp&nbspRafael Rodrigues Pereira<br>
     &nbsp&nbsp&nbsp
