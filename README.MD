@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/rpteciadev.png"
+    src="./assets/iagora.png"
     width="300"
 />
 </p>
