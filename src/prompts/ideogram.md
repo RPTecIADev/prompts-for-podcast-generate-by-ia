@@ -1,0 +1,1 @@
+estou criando um podcast chamado : IAgora? Crie uma logo usando esse nome e que mostre que o foco do podcast é programação e inteligência artificial. Precisa ter uma aspecto tecnologico e jovial ao mesmo tempo
