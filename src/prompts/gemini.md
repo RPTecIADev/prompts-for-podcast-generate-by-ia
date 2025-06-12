@@ -35,7 +35,8 @@ Dica Extra: Depois de escolher o nome, verifique se o domínio (site) e os handl
 
 Boa sorte com o projeto!
 
-
+|   Ação   | prompt                                                                                                                                                                                                                                                                         |
+| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | conteúdo | faça um roteiro de podcast  de 30 minutos destacando o que é inteligência artificial, como ela está sendo utilizada de forma efetiva, o que ainda pode ser feito... usando exemplos práticos e como é importante as pessoas buscarem conhecimento na área para não deixarem de ser competitivas no mercado de trabalho.
 
 | resposta | Episódio: #01 - IA: Desvende o Código do Futuro (Antes que ele Desvende Você)
